@@ -39,6 +39,10 @@ function getUserByToken(token) {
         message: "login success"
     }
 }
+//CRUD create,read,update,delete
+
+
+
 
 module.exports = {
     login,
